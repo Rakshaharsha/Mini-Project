@@ -1,0 +1,43 @@
+ 
+        
+        .thumbnail{
+            width: 100%; 
+        }
+        
+        .video-info-grid{
+            display:grid;
+            grid-template-columns: 50px 1fr;
+        }
+        .channel{
+            margin-top: 0px;
+        }
+        .info{
+            margin-top: 0px;
+        }
+        .profile-pic{
+            width:40px;
+            border-radius: 50px;
+        }
+        .ppl{
+            margin-top: 0;
+            font-size: 14px;
+            font-weight:500;
+            line-height: 20px;
+            margin-bottom:15px;
+            
+        }
+        .author,
+        .stats{
+            font-size:12px;
+        }
+        .author{
+            margin-bottom: 4px;
+        }
+        .video-grid{
+            display:grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 16px;
+            row-gap: 40px;
+        }
+       
+    
